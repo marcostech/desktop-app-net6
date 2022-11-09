@@ -1,0 +1,13 @@
+C:\Users\projeto\Desktop\area de trabalho\Git-marcostech-NET\desktop-app-net6\ConsoleAppTeste1\release\ConsoleAppTeste1.exe
+C:\Users\projeto\Desktop\area de trabalho\Git-marcostech-NET\desktop-app-net6\ConsoleAppTeste1\release\ConsoleAppTeste1.dll
+C:\Users\projeto\Desktop\area de trabalho\Git-marcostech-NET\desktop-app-net6\ConsoleAppTeste1\release\ConsoleAppTeste1.deps.json
+C:\Users\projeto\Desktop\area de trabalho\Git-marcostech-NET\desktop-app-net6\ConsoleAppTeste1\release\ConsoleAppTeste1.runtimeconfig.json
+C:\Users\projeto\Desktop\area de trabalho\Git-marcostech-NET\desktop-app-net6\ConsoleAppTeste1\release\ConsoleAppTeste1.pdb
+C:\Users\projeto\Desktop\area de trabalho\Git-marcostech-NET\desktop-app-net6\ConsoleAppTeste1\release\System.IO.Ports.dll
+C:\Users\projeto\Desktop\area de trabalho\Git-marcostech-NET\desktop-app-net6\ConsoleAppTeste1\release\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\projeto\Desktop\area de trabalho\Git-marcostech-NET\desktop-app-net6\ConsoleAppTeste1\release\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\projeto\Desktop\area de trabalho\Git-marcostech-NET\desktop-app-net6\ConsoleAppTeste1\release\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\projeto\Desktop\area de trabalho\Git-marcostech-NET\desktop-app-net6\ConsoleAppTeste1\release\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\projeto\Desktop\area de trabalho\Git-marcostech-NET\desktop-app-net6\ConsoleAppTeste1\release\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\projeto\Desktop\area de trabalho\Git-marcostech-NET\desktop-app-net6\ConsoleAppTeste1\release\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+C:\Users\projeto\Desktop\area de trabalho\Git-marcostech-NET\desktop-app-net6\ConsoleAppTeste1\release\runtimes\win\lib\net6.0\System.IO.Ports.dll

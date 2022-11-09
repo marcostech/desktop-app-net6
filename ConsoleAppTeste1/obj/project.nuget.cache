@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "BwvzpXmmhZCrjJMYS5P+k7QIOjnSp5ELUb5l1DXhIFz1XgbjYTztdtDdRbGltecsCm0XQ8YJ1enjJLdXvlkJcQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\projeto\\Desktop\\area de trabalho\\Git-marcostech-NET\\desktop-app-net6\\ConsoleAppTeste1\\ConsoleAppTeste1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\projeto\\.nuget\\packages\\runtime.linux-arm.runtime.native.system.io.ports\\7.0.0\\runtime.linux-arm.runtime.native.system.io.ports.7.0.0.nupkg.sha512",
+    "C:\\Users\\projeto\\.nuget\\packages\\runtime.linux-arm64.runtime.native.system.io.ports\\7.0.0\\runtime.linux-arm64.runtime.native.system.io.ports.7.0.0.nupkg.sha512",
+    "C:\\Users\\projeto\\.nuget\\packages\\runtime.linux-x64.runtime.native.system.io.ports\\7.0.0\\runtime.linux-x64.runtime.native.system.io.ports.7.0.0.nupkg.sha512",
+    "C:\\Users\\projeto\\.nuget\\packages\\runtime.native.system.io.ports\\7.0.0\\runtime.native.system.io.ports.7.0.0.nupkg.sha512",
+    "C:\\Users\\projeto\\.nuget\\packages\\runtime.osx-arm64.runtime.native.system.io.ports\\7.0.0\\runtime.osx-arm64.runtime.native.system.io.ports.7.0.0.nupkg.sha512",
+    "C:\\Users\\projeto\\.nuget\\packages\\runtime.osx-x64.runtime.native.system.io.ports\\7.0.0\\runtime.osx-x64.runtime.native.system.io.ports.7.0.0.nupkg.sha512",
+    "C:\\Users\\projeto\\.nuget\\packages\\system.io.ports\\7.0.0\\system.io.ports.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
